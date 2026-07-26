@@ -6,17 +6,17 @@ With a strong focus on clean coding principles, I love breaking down complex mec
 
 ---
 
-## 🚀 About Me
-* 🎮 **Primary Focus:** Advanced Gameplay Systems, Custom Movement Mechanics & Character Animation Workflows.
-* 🎥 **Content Creation:** Sharing the raw development process, pacing optimizations, and cinematic styling on my YouTube channel.
+## About Me
+* **Primary Focus:** Advanced Gameplay Systems, Custom Movement Mechanics & Character Animation Workflows
+* **Content Creation:** Sharing the raw development process, pacing optimizations, and cinematic styling on my YouTube channel
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 * **Game Engines:** Roblox Studio, Godot Engine, GDevelop
 * **Languages:** Luau, GDScript, Python
 ---
 
-## ⚡ Connect With Me
+## Connect With Me
 * [Watch my latest devlogs on YouTube](https://www.youtube.com/@MotionIV_Dev)
 * [Check out my projects on Roblox](https://www.roblox.com/users/5103029412/profile#!/creations)
 * [Download my official games from Itch.io](https://motioniv.itch.io/)
