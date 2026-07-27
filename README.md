@@ -2,8 +2,7 @@
 Real name is Ahmed Mostafa Zakria.
 I am an **Egyptian Game Developer** and **YouTube Content Creator** dedicated to crafting high-quality, high-performance gaming experiences and cinematic asset mechanics from scratch. 
 
-With a strong focus on clean coding principles, I love breaking down complex mechanics—from advanced anime-inspired abilities to dynamic visual environments—into lightweight, optimized structures.
-
+With a strong focus on clean coding principles.
 ---
 
 ## About Me
