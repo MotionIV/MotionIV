@@ -1,26 +1,33 @@
-# Hi there, I'm MotionIV! 👋
-Real name is Ahmed Mostafa Zakria.
-I am an **Egyptian Game Developer** and **YouTube Content Creator** dedicated to crafting high-quality, high-performance gaming experiences and cinematic asset mechanics from scratch. 
+# Hey, I'm MotionIV 👋
 
-With a strong focus on clean coding principles.
+Real name's Ahmed Mostafa Zakria — Egyptian, and I build games for a living (well, trying to 😄).
+
+I'm into game dev and content creation, mostly documenting my process on YouTube while I work on stuff. Started messing around with engines back in 2019 and never really stopped.
+
 ---
 
-## About Me
-* **Primary Focus:** Advanced Gameplay Systems, Custom Movement Mechanics & Character Animation Workflows
-* **Content Creation:** Sharing the raw development process, pacing optimizations, and cinematic styling on my YouTube channel
+## What I Do
+
+I care a lot about how games *feel* — movement, animations, that whole "juice" factor. Most of my time goes into gameplay systems and getting mechanics to feel right, not just work. I also record the whole dev process for my channel, mess-ups included.
+
 ---
 
-## Tech Stack & Tools
-* **Game Engines:** Roblox Studio, Godot Engine, GDevelop
+## Stuff I Use
+
+* **Engines:** Roblox Studio, Godot, GDevelop (started here, don't judge)
 * **Languages:** Luau, GDScript, Python
+
 ---
 
-## Connect With Me
-* [Watch my latest devlogs on YouTube](https://www.youtube.com/@MotionIV_Dev)
-* [Check out my projects on Roblox](https://www.roblox.com/users/5103029412/profile#!/creations)
-* [Download my official games from Itch.io](https://motioniv.itch.io/)
-* [Join my discord server](https://discord.gg/XNVEDhXEef)
-* Discord Username: @tvj5
-Important: I do not own any other accounts. Any other profile using my name is not associated with me.
+## Find Me Here
 
-*“Why write 500 lines of messy code when you can build a masterpiece with clean, efficient structure?”* 😉🔥
+* YouTube: [devlogs and my videos](https://www.youtube.com/@MotionIV_Dev)
+* Roblox: [my creations](https://www.roblox.com/users/5103029412/profile#!/creations)
+* Itch.io: [games I've actually finished](https://motioniv.itch.io/)
+* Discord: [join here](https://discord.gg/XNVEDhXEef) or hit me up @tvj5
+
+⚠️ Heads up — I only use these accounts. Anything else with my name floating around isn't me.
+
+---
+
+*"Why write 500 lines of spaghetti when you can just... not?"* 😉
