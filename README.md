@@ -22,6 +22,7 @@
 ## تلاقيني هنا
 
 * يوتيوب: [الفيديوهات والـdevlogs بتاعتي](https://www.youtube.com/@MotionIV_Dev)
+* تيك توك" [فيديوهاتي والـdevlogs سريعه](https://www.tiktok.com/@motioniv_dev/)
 * روبلوكس: [العاب اللي عملتها في روبلوكس](https://www.roblox.com/users/5103029412/profile#!/creations)
 * Itch.io: [العابي العامه](https://motioniv.itch.io/)
 * ديسكورد: [ادخل هنا](https://discord.gg/XNVEDhXEef) أو اتكلم معي @tvj5
